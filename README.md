@@ -2,7 +2,7 @@
 
 Arquivos estáticos de publicação do portfólio de Pedro Daud, videomaker, editor audiovisual e criativo.
 
-Endereço: https://pedrolucasrabelo2203-a11y.github.io/
+Endereço: https://pedro-daud.github.io/
 
 A publicação é feita pelo GitHub Pages a partir da raiz da branch main. O site é gerado com Astro; alterações devem ser feitas no projeto-fonte e regeneradas antes do envio.
 

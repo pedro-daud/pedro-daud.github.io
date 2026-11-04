@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://pedrolucasrabelo2203-a11y.github.io/sitemap.xml
+Sitemap: https://pedro-daud.github.io/sitemap.xml
